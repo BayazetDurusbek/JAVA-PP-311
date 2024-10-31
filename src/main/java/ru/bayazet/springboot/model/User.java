@@ -1,4 +1,4 @@
-package ru.mikhail.springboot.model;
+package ru.bayazet.springboot.model;
 import jakarta.persistence.*;
 import lombok.Data;
 
